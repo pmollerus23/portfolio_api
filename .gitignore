@@ -79,3 +79,5 @@ coverage/
 # Ignore user-specific files for .NET SDK
 global.json
 
+
+.fake
